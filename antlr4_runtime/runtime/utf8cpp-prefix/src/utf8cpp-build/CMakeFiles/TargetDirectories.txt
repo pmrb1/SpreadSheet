@@ -1,0 +1,6 @@
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-build/CMakeFiles/edit_cache.dir
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-build/CMakeFiles/rebuild_cache.dir
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-build/CMakeFiles/list_install_components.dir
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-build/CMakeFiles/install.dir
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-build/CMakeFiles/install/local.dir
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-build/CMakeFiles/install/strip.dir

@@ -1,0 +1,10 @@
+# Target labels
+ utf8cpp
+# Source files and their labels
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/CMakeFiles/utf8cpp-build
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/CMakeFiles/utf8cpp-build.rule
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-build.rule
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-configure.rule
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-patch.rule
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-download.rule
+/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-mkdir.rule

@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/CMakeFiles/utf8cpp"
+		},
+		{
+			"file" : "/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/CMakeFiles/utf8cpp.rule"
+		},
+		{
+			"file" : "/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/CMakeFiles/utf8cpp-complete.rule"
+		},
+		{
+			"file" : "/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-build.rule"
+		},
+		{
+			"file" : "/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-configure.rule"
+		},
+		{
+			"file" : "/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-download.rule"
+		},
+		{
+			"file" : "/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-install.rule"
+		},
+		{
+			"file" : "/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-mkdir.rule"
+		},
+		{
+			"file" : "/Users/roman/Desktop/cpp/spreadsheets/antlr4_runtime/runtime/utf8cpp-prefix/src/utf8cpp-stamp/utf8cpp-patch.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"utf8cpp"
+		],
+		"name" : "utf8cpp"
+	}
+}
